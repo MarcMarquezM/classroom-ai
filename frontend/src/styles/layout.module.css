@@ -1,0 +1,38 @@
+.layout {
+    height: 100vh;
+  }
+  
+  .icons {
+    color: darkgray !important;
+    font-weight: 500;
+  }
+  
+  .menu {
+    background-color: transparent;
+  }
+  
+  .header {
+    background-color: #ffffff;
+  }
+  
+  .content {
+    height: 100%;
+    background: rgb(242, 241, 241);
+    overflow-y: auto;
+  }
+
+  .footer {
+    text-align: center;
+    background: white;
+
+  }
+
+  .title {
+    font-family: 'Arial', sans-serif; /* Use Arial font */
+    font-size: 24px; /* Set the desired font size */
+    text-align: left;
+}
+
+  .cards {
+  box-shadow: 1px 1px lightgray;
+}
