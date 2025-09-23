@@ -16,8 +16,8 @@ module.exports = {
     env: {
         NEXT_API_HOST: 'localhost',
         NEXT_API_PORT: '80',
-        NEXT_FB_API: 'AIzaSyD1RT0y3tROePpE3WcJS1AxLOj_f_SpUfQ',
-        NEXT_FB_DOMAIN: 'eq7interfazdb.firebaseapp.com'
+        NEXT_FB_API: '',
+        NEXT_FB_DOMAIN: ''
     },
     async redirects() {
       return [
