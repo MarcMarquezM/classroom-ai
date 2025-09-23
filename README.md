@@ -23,7 +23,6 @@ Classroom AI turns a standard webcam into an assistant for teachers:
 
 ### Session Summaries
 * For a given course and date, the app fetches and displays participation and attendance counts per student.
-* The view is designed for quick review after a session and to support basic analytics dashboards later.
 
 ## Backend
 **Tech:** Python 3.11, FastAPI, YOLOv8-pose, OpenCV, face_recognition (dlib), Redis, SQL Server, Azure Blob Storage
