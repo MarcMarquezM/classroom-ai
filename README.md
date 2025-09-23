@@ -1,7 +1,7 @@
 # ClassroomAI
 Real-time classroom analytics that detect attendance and hand-raise participation from a web camera stream, powered by YOLO pose and face recognition. Frontend in Next.js, backend in FastAPI with Redis and SQL Server.
+![login-gif](https://github.com/user-attachments/assets/6be4afe8-e597-4f97-a751-47a86b23ed9e)
 
-![login](https://github.com/user-attachments/assets/fdfec244-9c39-4438-b68e-e0187361eef9)
 
 ## Project Description
 Classroom AI turns a standard webcam into an assistant for teachers:
